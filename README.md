@@ -3,6 +3,8 @@
 
 に参加したときに、作成したコードを、何も整理せず、そのまま置いてあるレポジトリです。
 
+支離滅裂なコードがあっても、ご容赦ください。
+
 - [LightGBM シンプル版](./LightGBM-simple.ipynb)
 - [LightGBM チューニング版](./LightGBM.ipynb)
 - [DeepTables シンプル版](./DeepTable-simple.ipynb)
